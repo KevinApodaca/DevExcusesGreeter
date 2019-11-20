@@ -3,7 +3,7 @@ This project will load developer excuses and greet you with them.
 
 <h1 align="center">
   <br>
-  <img src="logo.png" alt="uBeatCS" width="200"></a>
+  <img src="devExc.gif" alt="uBeatCS" width="200"></a>
   <br>
   Developer Excuses Greeter
   <br>
