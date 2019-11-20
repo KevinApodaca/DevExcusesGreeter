@@ -11,6 +11,7 @@ This project will load developer excuses and greet you with them.
 
 <h4 align="center">A new excuse every time, for the struggling developer</h4>
 
+![demo file](http://www.giphy.com/gifs/XBRwAgTUROMvnmqRZ2)
 ## Description
 This script will greet the user with a new developer excuses grabbed from [Developer Excuses](https://www.devexcuses.com)
 
